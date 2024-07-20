@@ -1,0 +1,10 @@
+groq
+cohere
+rich
+python-dotenv
+google-generativeai
+crewai[tools]
+crewai
+nara
+pydub
+speech_recognition
